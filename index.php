@@ -1,0 +1,1 @@
+<?php echo "Papa's kunnen alles, maar zonen kunnen er ook wat van!" ?>
